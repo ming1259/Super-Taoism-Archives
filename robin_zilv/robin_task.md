@@ -48,4 +48,5 @@ git remote origin https://github.com/my/xxx.git
 
 2.将filecodebox运行起来，没有错误
 asws服务器已经启动，uvicorn 运行起来，但是文件不能正常长上传，取件码不能生成！
-![上传失败](D:/dev/img/err上传失败.png)
+
+![上传失败](D:\dev\img\err上传失败.png)
